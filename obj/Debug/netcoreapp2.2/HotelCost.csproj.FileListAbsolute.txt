@@ -1,0 +1,11 @@
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/bin/Debug/netcoreapp2.2/HotelCost.deps.json
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/bin/Debug/netcoreapp2.2/HotelCost.runtimeconfig.json
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/bin/Debug/netcoreapp2.2/HotelCost.runtimeconfig.dev.json
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/bin/Debug/netcoreapp2.2/HotelCost.dll
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/bin/Debug/netcoreapp2.2/HotelCost.pdb
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.csprojAssemblyReference.cache
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.csproj.CoreCompileInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.AssemblyInfoInputs.cache
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.AssemblyInfo.cs
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.dll
+/Users/katysolovewicz/Projects/epicodus/c#/HotelCost/obj/Debug/netcoreapp2.2/HotelCost.pdb
